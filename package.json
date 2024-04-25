@@ -1,19 +1,15 @@
 {
-  "name": "mortor",
+  "name": "mortor-project",
+  "private": true,
+  "scripts": {
+    "format": "biome check --apply-unsafe ."
+  },
   "version": "0.0.0",
-  "description": "A light weight web extensions framework",
-  "author": {
-    "name": "k1tikurisu",
-    "email": "k1tikurisu@gmail.com",
-    "url": "https://scrapbox.io/k1tikurisu/k1tikurisu"
+  "packageManager": "yarn@4.1.1",
+  "devDependencies": {
+    "@biomejs/biome": "1.7.1"
   },
-  "bugs": {
-    "url": "https://github.com/k1tikurisu/mortor/issues"
-  },
-  "homepage": "https://github.com/k1tikurisu/mortor#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/k1tikurisu/mortor.git"
-  },
-  "packageManager": "yarn@4.1.1"
+  "workspaces": [
+    "packages/*"
+  ]
 }

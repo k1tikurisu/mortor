@@ -1,0 +1,19 @@
+{
+  "name": "mortor",
+  "version": "0.0.1",
+  "packageManager": "yarn@4.1.1",
+  "description": "A light weight web extensions framework",
+  "author": {
+    "name": "k1tikurisu",
+    "email": "k1tikurisu@gmail.com",
+    "url": "https://scrapbox.io/k1tikurisu/k1tikurisu"
+  },
+  "bugs": {
+    "url": "https://github.com/k1tikurisu/mortor/issues"
+  },
+  "homepage": "https://github.com/k1tikurisu/mortor#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k1tikurisu/mortor.git"
+  }
+}
