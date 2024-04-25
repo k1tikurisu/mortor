@@ -1,6 +1,7 @@
 {
   "name": "mortor-project",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "format": "biome check --apply-unsafe ."
   },

@@ -1,8 +1,9 @@
 {
   "name": "mortor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "yarn@4.1.1",
   "description": "A light weight web extensions framework",
+  "license": "MIT",
   "author": {
     "name": "k1tikurisu",
     "email": "k1tikurisu@gmail.com",
