@@ -18,6 +18,8 @@
     "url": "https://github.com/k1tikurisu/mortor.git"
   },
   "dependencies": {
+    "@types/node": "20.12.7",
+    "@types/yargs": "17.0.32",
     "yargs": "17.7.2"
   }
 }
